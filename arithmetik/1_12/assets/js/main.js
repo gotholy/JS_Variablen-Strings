@@ -1,0 +1,12 @@
+let score = 5 + 5 * 10;
+console.log("result" + score);
+score = (5 + 5) * 10;
+console.log("result" + score);
+score = 0;
+score = score + 10;
+console.log("score" + 10);
+score += 10;
+console.log("score" + score);
+score = 2;
+score++;
+console.log("imprement" + score);
